@@ -23,7 +23,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    //我刚才添加的内容呢
     /*
     self.view.backgroundColor=[UIColor cyanColor];
     [MBProgressHUD showHUDAddedTo:self.view animated:YES];
